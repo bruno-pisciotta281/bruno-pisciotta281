@@ -54,7 +54,10 @@
 
 [☁️ CONVECÇÃO (TECSUS) ✅](https://github.com/Conveccao)
 
+[🚀 CANIS MAJORIS (VISIONA) ✅](https://github.com/bruno-pisciotta281/visiona)
+
 [🔷GOODTICKET (IACIT) ✅](https://github.com/Grupo2-DSM)
+
 
 <div align="center">
 <br><p align="centre"><b>Total de Visitas ao Perfil:</b></p>  
