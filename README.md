@@ -49,14 +49,15 @@
 
 ### Principais Trabalhos com Empresas Reais:
 
-[📊 PRO-MANAGE (ORACLE ACADEMY) ✅](https://github.com/ProManage-FatecSJC)
+[🤖 FORDEVS (DOMROCK) ✅](https://github.com/ForDevs-Fatec/Documentation)
 
-[☁️ CONVECÇÃO (TECSUS) ✅](https://github.com/Conveccao)
+[📊 PRO-MANAGE (ORACLE ACADEMY) ✅](https://github.com/ProManage-FatecSJC/pro-manager-documentation)
+
+[☁️ CONVECÇÃO (TECSUS) ✅](https://github.com/Conveccao/conveccao-documentacao)
+
+[🔷 GOODTICKET (IACIT) ✅](https://github.com/Grupo2-DSM/Api-3dsm-2022)
 
 [🚀 CANIS MAJORIS (VISIONA) ✅](https://github.com/bruno-pisciotta281/visiona)
-
-[🔷 GOODTICKET (IACIT) ✅](https://github.com/Grupo2-DSM)
-
 
 <div align="center">
 <br><p align="centre"><b>Total de Visitas ao Perfil:</b></p>  
